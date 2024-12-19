@@ -1,4 +1,4 @@
-# VBA Challenege Module 2 
+# VBA Challenge Module 2 
 
 Sources used for this challenge 
 
